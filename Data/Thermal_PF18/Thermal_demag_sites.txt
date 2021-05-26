@@ -1,0 +1,3 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+PF18	Potato River Falls	46.5	-90.5		This study

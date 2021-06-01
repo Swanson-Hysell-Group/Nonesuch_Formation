@@ -1,3 +1,4 @@
 tab	locations
 analysts	citations	lat_n	lat_s	location	lon_e	lon_w
+	This study	46.5	46.5	Northern Michigan	-90.5	-90.5
 	This study	46.5	46.5	Potato River Falls	-90.5	-90.5

@@ -1,165 +1,165 @@
-tab	specimens
+tab	specimens				
 specimen	sample	analysts	citations	volume	weight
-PF18-1a	PF18-1		This study	 5.800e-06	
-PF18-2b	PF18-2		This study	 7.900e-06	
-PF18-3a	PF18-3		This study	 5.800e-06	
-PF18-4a	PF18-4		This study	 6.500e-06	
-PF18-5a	PF18-5		This study	 1.170e-05	
-PF18-6b	PF18-6		This study	 1.440e-05	
-PF18-7a	PF18-7		This study	 1.440e-05	
-PF18-8a	PF18-8		This study	 1.750e-05	
-PF18-9a	PF18-9		This study	 1.230e-05	
-PF18-10a	PF18-10		This study	 1.390e-05	
-PF18-11a	PF18-11		This study	 7.900e-06	
-PF18-12a	PF18-12		This study	 4.400e-06	
-PF18-13a	PF18-13		This study	 1.130e-05	
-PF18-14a	PF18-14		This study	 5.700e-06	
-PF18-15a	PF18-15		This study	 8.700e-06	
-PF18-16a	PF18-16		This study	 1.160e-05	
-PF18-17a	PF18-17		This study	 9.300e-06	
-PF18-18a	PF18-18		This study	 1.180e-05	
-PF18-19b	PF18-19		This study	 7.400e-06	
-PF18-20a	PF18-20		This study	 6.200e-06	
-PF18-21a	PF18-21		This study	 7.900e-06	
-PF18-22a	PF18-22		This study	 8.000e-06	
-PF18-23a	PF18-23		This study	 1.060e-05	
-PF18-24a	PF18-24		This study	 1.210e-05	
-PF18-25a	PF18-25		This study	 1.170e-05	
-PF18-26a	PF18-26		This study	 1.400e-05	
-PF18-27a	PF18-27		This study	 9.800e-06	
-PF18-28a	PF18-28		This study	 3.800e-06	
-PF18-29a	PF18-29		This study	 4.900e-06	
-PF18-30a	PF18-30		This study	 6.700e-06	
-PF18-31a	PF18-31		This study	 1.060e-05	
-PF18-32a	PF18-32		This study	 1.430e-05	
-PF18-33a	PF18-33		This study	 5.400e-06	
-PF18-34a	PF18-34		This study	 8.600e-06	
-PF18-35a	PF18-35		This study	 9.300e-06	
-PF18-36a	PF18-36		This study	 1.280e-05	
-PF18-37a	PF18-37		This study	 8.600e-06	
-PF18-38a	PF18-38		This study	 1.150e-05	
-PF18-39a	PF18-39		This study	 7.300e-06	
-PF18-40a	PF18-40		This study	 8.500e-06	
-PF18-41a	PF18-41		This study	 6.700e-06	
-PF18-42a	PF18-42		This study	 5.800e-06	
-PF18-43a	PF18-43		This study	 1.350e-05	
-PF18-44b	PF18-44		This study	 1.050e-05	
-PF18-45a	PF18-45		This study	 1.260e-05	
-PF18-46a	PF18-46		This study	 1.370e-05	
-PF18-47a	PF18-47		This study	 1.010e-05	
-PF18-48a	PF18-48		This study	 7.300e-06	
-PF18-49a	PF18-49		This study	 7.000e-06	
-PF18-50a	PF18-50		This study	 1.250e-05	
-PF18-51b	PF18-51		This study	 1.210e-05	
-PF18-52b	PF18-52		This study	 1.010e-05	
-PF18-53a	PF18-53		This study	 8.100e-06	
-PF18-54a	PF18-54		This study	 7.200e-06	
-PF18-55a	PF18-55		This study	 1.410e-05	
-PF18-56a	PF18-56		This study	 8.400e-06	
-PF18-57a	PF18-57		This study	 9.200e-06	
-PF18-58a	PF18-58		This study	 1.250e-05	
-PF18-59b	PF18-59		This study	 1.070e-05	
-PF18-60a	PF18-60		This study	 1.410e-05	
-PF18-61a	PF18-61		This study	 1.140e-05	
-PF18-62a	PF18-62		This study	 7.300e-06	
-PF18-63a	PF18-63		This study	 1.340e-05	
-PF18-64a	PF18-64		This study	 1.340e-05	
-PF18-65b	PF18-65		This study	 1.080e-05	
-PF18-66a	PF18-66		This study	 5.200e-06	
-PF18-67a	PF18-67		This study	 1.020e-05	
-PF18-68a	PF18-68		This study	 1.010e-05	
-PF18-69a	PF18-69		This study	 1.190e-05	
-PF18-70a	PF18-70		This study	 1.370e-05	
-PF18-71d	PF18-71		This study	 6.200e-06	
-PF18-72a	PF18-72		This study	 1.270e-05	
-PF18-73b	PF18-73		This study	 9.700e-06	
-PF18-74a	PF18-74		This study	 1.310e-05	
-PF18-75a	PF18-75		This study	 5.200e-06	
-PF18-76a	PF18-76		This study	 1.200e-05	
-PF18-77a	PF18-77		This study	 6.200e-06	
-PF18-78a	PF18-78		This study	 1.430e-05	
-PF18-79b	PF18-79		This study	 1.000e-05	
-PF18-80a	PF18-80		This study	 1.460e-05	
-PF18-81a	PF18-81		This study	 1.350e-05	
-PF18-82a	PF18-82		This study	 1.380e-05	
-PF18-83a	PF18-83		This study	 1.250e-05	
-PF18-84a	PF18-84		This study	 1.230e-05	
-PF18-85a	PF18-85		This study	 8.500e-06	
-PF18-86a	PF18-86		This study	 1.170e-05	
-PF18-87a	PF18-87		This study	 1.300e-05	
-PF18-88a	PF18-88		This study	 1.140e-05	
-PF18-89a	PF18-89		This study	 1.290e-05	
-PF18-90a	PF18-90		This study	 1.390e-05	
-PF18-91a	PF18-91		This study	 1.370e-05	
-PF18-92a	PF18-92		This study	 1.230e-05	
-PF18-93a	PF18-93		This study	 1.320e-05	
-PF18-94a	PF18-94		This study	 1.280e-05	
-PF18-95a	PF18-95		This study	 1.090e-05	
-PF18-96a	PF18-96		This study	 1.020e-05	
-PF18-97a	PF18-97		This study	 1.260e-05	
-PF18-98a	PF18-98		This study	 1.310e-05	
-PF18-99a	PF18-99		This study	 1.390e-05	
-PF18-100a	PF18-100		This study	 1.350e-05	
-PF18-101a	PF18-101		This study	 1.200e-05	
-PF18-102a	PF18-102		This study	 1.200e-05	
-PF18-103a	PF18-103		This study	 1.390e-05	
-PF18-104a	PF18-104		This study	 1.330e-05	
-PF18-105a	PF18-105		This study	 9.800e-06	
-PF18-106a	PF18-106		This study	 1.410e-05	
-PF18-107a	PF18-107		This study	 1.230e-05	
-PF18-108a	PF18-108		This study	 1.060e-05	
-PF18-109a	PF18-109		This study	 1.320e-05	
-PF18-110a	PF18-110		This study	 1.250e-05	
-PF18-111a	PF18-111		This study	 9.700e-06	
-PF18-112a	PF18-112		This study	 1.360e-05	
-PF18-113a	PF18-113		This study	 1.010e-05	
-PF18-114a	PF18-114		This study	 1.280e-05	
-PF18-115a	PF18-115		This study	 1.470e-05	
-PF18-116a	PF18-116		This study	 1.330e-05	
-PF18-117a	PF18-117		This study	 1.310e-05	
-PF18-118a	PF18-118		This study	 1.300e-05	
-PF18-119a	PF18-119		This study	 1.330e-05	
-PF18-120a	PF18-120		This study	 1.310e-05	
-PF18-121a	PF18-121		This study	 1.160e-05	
-PF18-122a	PF18-122		This study	 1.400e-05	
-PF18-123a	PF18-123		This study	 1.280e-05	
-PF18-124a	PF18-124		This study	 1.260e-05	
-PF18-125a	PF18-125		This study	 1.160e-05	
-PF18-126a	PF18-126		This study	 1.210e-05	
-PF18-127a	PF18-127		This study	 1.350e-05	
-PF18-128a	PF18-128		This study	 1.300e-05	
-PF18-129a	PF18-129		This study	 1.260e-05	
-PF18-130a	PF18-130		This study	 1.330e-05	
-PF18-131a	PF18-131		This study	 1.330e-05	
-PF18-132a	PF18-132		This study	 1.340e-05	
-PF18-133a	PF18-133		This study	 1.240e-05	
-PF18-134a	PF18-134		This study	 1.150e-05	
-PF18-135a	PF18-135		This study	 1.240e-05	
-PF18-136a	PF18-136		This study	 1.410e-05	
-PF18-137a	PF18-137		This study	 1.320e-05	
-PF18-138a	PF18-138		This study	 1.340e-05	
-PF18-139a	PF18-139		This study	 1.270e-05	
-PF18-140a	PF18-140		This study	 1.280e-05	
-PF18-141a	PF18-141		This study	 8.800e-06	
-PF18-142a	PF18-142		This study	 1.110e-05	
-PF18-143a	PF18-143		This study	 1.130e-05	
-PF18-144a	PF18-144		This study	 1.380e-05	
-PF18-145a	PF18-145		This study	 1.310e-05	
-PF18-146a	PF18-146		This study	 1.030e-05	
-PF18-147a	PF18-147		This study	 1.310e-05	
-PF18-148a	PF18-148		This study	 6.600e-06	
-PF18-149a	PF18-149		This study	 1.210e-05	
-PF18-150a	PF18-150		This study	 1.230e-05	
-PF18-151a	PF18-151		This study	 1.330e-05	
-PF18-152a	PF18-152		This study	 1.180e-05	
-PF18-153a	PF18-153		This study	 1.300e-05	
-PF18-154a	PF18-154		This study	 1.370e-05	
-PF18-155a	PF18-155		This study	 1.440e-05	
-PF18-156a	PF18-156		This study	 1.370e-05	
-PF18-157a	PF18-157		This study	 1.340e-05	
-PF18-158a	PF18-158		This study	 1.290e-05	
-PF18-159a	PF18-159		This study	 1.330e-05	
-PF18-160a	PF18-160		This study	 1.010e-05	
-PF18-161a	PF18-161		This study	 1.260e-05	
-PF18-162a	PF18-162		This study	 9.900e-06	
-PF18-163a	PF18-163		This study	 8.000e-06	
+PF18-1a	PF18-1		This study	5.80E-06	0.00576
+PF18-2b	PF18-2		This study	7.90E-06	0.00787
+PF18-3a	PF18-3		This study	5.80E-06	0.00581
+PF18-4a	PF18-4		This study	6.50E-06	0.00645
+PF18-5a	PF18-5		This study	1.17E-05	0.01169
+PF18-6b	PF18-6		This study	1.44E-05	0.01438
+PF18-7a	PF18-7		This study	1.44E-05	0.01445
+PF18-8a	PF18-8		This study	1.75E-05	0.01751
+PF18-9a	PF18-9		This study	1.23E-05	0.01233
+PF18-10a	PF18-10		This study	1.39E-05	0.01388
+PF18-11a	PF18-11		This study	7.90E-06	0.00792
+PF18-12a	PF18-12		This study	4.40E-06	0.00444
+PF18-13a	PF18-13		This study	1.13E-05	0.01131
+PF18-14a	PF18-14		This study	5.70E-06	0.00567
+PF18-15a	PF18-15		This study	8.70E-06	0.00868
+PF18-16a	PF18-16		This study	1.16E-05	0.0116
+PF18-17a	PF18-17		This study	9.30E-06	0.00934
+PF18-18a	PF18-18		This study	1.18E-05	0.01181
+PF18-19b	PF18-19		This study	7.40E-06	0.00741
+PF18-20a	PF18-20		This study	6.20E-06	0.0062
+PF18-21a	PF18-21		This study	7.90E-06	0.0079
+PF18-22a	PF18-22		This study	8.00E-06	0.00803
+PF18-23a	PF18-23		This study	1.06E-05	0.01062
+PF18-24a	PF18-24		This study	1.21E-05	0.01209
+PF18-25a	PF18-25		This study	1.17E-05	0.01167
+PF18-26a	PF18-26		This study	1.40E-05	0.01403
+PF18-27a	PF18-27		This study	9.80E-06	0.00979
+PF18-28a	PF18-28		This study	3.80E-06	0.00382
+PF18-29a	PF18-29		This study	4.90E-06	0.00494
+PF18-30a	PF18-30		This study	6.70E-06	0.00674
+PF18-31a	PF18-31		This study	1.06E-05	0.01061
+PF18-32a	PF18-32		This study	1.43E-05	0.01431
+PF18-33a	PF18-33		This study	5.40E-06	0.00538
+PF18-34a	PF18-34		This study	8.60E-06	0.00856
+PF18-35a	PF18-35		This study	9.30E-06	0.00927
+PF18-36a	PF18-36		This study	1.28E-05	0.01279
+PF18-37a	PF18-37		This study	8.60E-06	0.00862
+PF18-38a	PF18-38		This study	1.15E-05	0.01147
+PF18-39a	PF18-39		This study	7.30E-06	0.00731
+PF18-40a	PF18-40		This study	8.50E-06	0.00848
+PF18-41a	PF18-41		This study	6.70E-06	0.00667
+PF18-42a	PF18-42		This study	5.80E-06	0.00575
+PF18-43a	PF18-43		This study	1.35E-05	0.01351
+PF18-44b	PF18-44		This study	1.05E-05	0.01054
+PF18-45a	PF18-45		This study	1.26E-05	0.01259
+PF18-46a	PF18-46		This study	1.37E-05	0.01367
+PF18-47a	PF18-47		This study	1.01E-05	0.01005
+PF18-48a	PF18-48		This study	7.30E-06	0.00729
+PF18-49a	PF18-49		This study	7.00E-06	0.00699
+PF18-50a	PF18-50		This study	1.25E-05	0.01249
+PF18-51b	PF18-51		This study	1.21E-05	0.01212
+PF18-52b	PF18-52		This study	1.01E-05	0.01011
+PF18-53a	PF18-53		This study	8.10E-06	0.00812
+PF18-54a	PF18-54		This study	7.20E-06	0.00723
+PF18-55a	PF18-55		This study	1.41E-05	0.01413
+PF18-56a	PF18-56		This study	8.40E-06	0.00843
+PF18-57a	PF18-57		This study	9.20E-06	0.00922
+PF18-58a	PF18-58		This study	1.25E-05	0.01251
+PF18-59b	PF18-59		This study	1.07E-05	0.01065
+PF18-60a	PF18-60		This study	1.41E-05	0.01412
+PF18-61a	PF18-61		This study	1.14E-05	0.01136
+PF18-62a	PF18-62		This study	7.30E-06	0.00735
+PF18-63a	PF18-63		This study	1.34E-05	0.01337
+PF18-64a	PF18-64		This study	1.34E-05	0.01339
+PF18-65b	PF18-65		This study	1.08E-05	0.01084
+PF18-66a	PF18-66		This study	5.20E-06	0.00522
+PF18-67a	PF18-67		This study	1.02E-05	0.01017
+PF18-68a	PF18-68		This study	1.01E-05	0.0101
+PF18-69a	PF18-69		This study	1.19E-05	0.01186
+PF18-70a	PF18-70		This study	1.37E-05	0.0137
+PF18-71d	PF18-71		This study	6.20E-06	0.00615
+PF18-72a	PF18-72		This study	1.27E-05	0.01273
+PF18-73b	PF18-73		This study	9.70E-06	0.00972
+PF18-74a	PF18-74		This study	1.31E-05	0.01314
+PF18-75a	PF18-75		This study	5.20E-06	0.00522
+PF18-76a	PF18-76		This study	1.20E-05	0.01198
+PF18-77a	PF18-77		This study	6.20E-06	0.00622
+PF18-78a	PF18-78		This study	1.43E-05	0.01433
+PF18-79b	PF18-79		This study	1.00E-05	0.00999
+PF18-80a	PF18-80		This study	1.46E-05	0.0146
+PF18-81a	PF18-81		This study	1.35E-05	0.01354
+PF18-82a	PF18-82		This study	1.38E-05	0.01376
+PF18-83a	PF18-83		This study	1.25E-05	0.01247
+PF18-84a	PF18-84		This study	1.23E-05	0.0123
+PF18-85a	PF18-85		This study	8.50E-06	0.00849
+PF18-86a	PF18-86		This study	1.17E-05	0.01168
+PF18-87a	PF18-87		This study	1.30E-05	0.01296
+PF18-88a	PF18-88		This study	1.14E-05	0.0114
+PF18-89a	PF18-89		This study	1.29E-05	0.0129
+PF18-90a	PF18-90		This study	1.39E-05	0.0139
+PF18-91a	PF18-91		This study	1.37E-05	0.01368
+PF18-92a	PF18-92		This study	1.23E-05	0.0123
+PF18-93a	PF18-93		This study	1.32E-05	0.01321
+PF18-94a	PF18-94		This study	1.28E-05	0.01282
+PF18-95a	PF18-95		This study	1.09E-05	0.01088
+PF18-96a	PF18-96		This study	1.02E-05	0.01019
+PF18-97a	PF18-97		This study	1.26E-05	0.01255
+PF18-98a	PF18-98		This study	1.31E-05	0.01313
+PF18-99a	PF18-99		This study	1.39E-05	0.01388
+PF18-100a	PF18-100		This study	1.35E-05	0.01349
+PF18-101a	PF18-101		This study	1.20E-05	0.01203
+PF18-102a	PF18-102		This study	1.20E-05	0.012
+PF18-103a	PF18-103		This study	1.39E-05	0.0139
+PF18-104a	PF18-104		This study	1.33E-05	0.01327
+PF18-105a	PF18-105		This study	9.80E-06	0.00977
+PF18-106a	PF18-106		This study	1.41E-05	0.01411
+PF18-107a	PF18-107		This study	1.23E-05	0.01231
+PF18-108a	PF18-108		This study	1.06E-05	0.01058
+PF18-109a	PF18-109		This study	1.32E-05	0.01319
+PF18-110a	PF18-110		This study	1.25E-05	0.01249
+PF18-111a	PF18-111		This study	9.70E-06	0.00966
+PF18-112a	PF18-112		This study	1.36E-05	0.01357
+PF18-113a	PF18-113		This study	1.01E-05	0.01006
+PF18-114a	PF18-114		This study	1.28E-05	0.01275
+PF18-115a	PF18-115		This study	1.47E-05	0.01471
+PF18-116a	PF18-116		This study	1.33E-05	0.01325
+PF18-117a	PF18-117		This study	1.31E-05	0.01305
+PF18-118a	PF18-118		This study	1.30E-05	0.01297
+PF18-119a	PF18-119		This study	1.33E-05	0.01326
+PF18-120a	PF18-120		This study	1.31E-05	0.01307
+PF18-121a	PF18-121		This study	1.16E-05	0.01164
+PF18-122a	PF18-122		This study	1.40E-05	0.014
+PF18-123a	PF18-123		This study	1.28E-05	0.01282
+PF18-124a	PF18-124		This study	1.26E-05	0.0126
+PF18-125a	PF18-125		This study	1.16E-05	0.01155
+PF18-126a	PF18-126		This study	1.21E-05	0.01214
+PF18-127a	PF18-127		This study	1.35E-05	0.01352
+PF18-128a	PF18-128		This study	1.30E-05	0.01296
+PF18-129a	PF18-129		This study	1.26E-05	0.01262
+PF18-130a	PF18-130		This study	1.33E-05	0.01326
+PF18-131a	PF18-131		This study	1.33E-05	0.01325
+PF18-132a	PF18-132		This study	1.34E-05	0.01337
+PF18-133a	PF18-133		This study	1.24E-05	0.01242
+PF18-134a	PF18-134		This study	1.15E-05	0.01151
+PF18-135a	PF18-135		This study	1.24E-05	0.01242
+PF18-136a	PF18-136		This study	1.41E-05	0.01406
+PF18-137a	PF18-137		This study	1.32E-05	0.01322
+PF18-138a	PF18-138		This study	1.34E-05	0.01339
+PF18-139a	PF18-139		This study	1.27E-05	0.01265
+PF18-140a	PF18-140		This study	1.28E-05	0.0128
+PF18-141a	PF18-141		This study	8.80E-06	0.00885
+PF18-142a	PF18-142		This study	1.11E-05	0.01114
+PF18-143a	PF18-143		This study	1.13E-05	0.01129
+PF18-144a	PF18-144		This study	1.38E-05	0.01383
+PF18-145a	PF18-145		This study	1.31E-05	0.01308
+PF18-146a	PF18-146		This study	1.03E-05	0.01031
+PF18-147a	PF18-147		This study	1.31E-05	0.01307
+PF18-148a	PF18-148		This study	6.60E-06	0.00656
+PF18-149a	PF18-149		This study	1.21E-05	0.01206
+PF18-150a	PF18-150		This study	1.23E-05	0.01226
+PF18-151a	PF18-151		This study	1.33E-05	0.0133
+PF18-152a	PF18-152		This study	1.18E-05	0.01177
+PF18-153a	PF18-153		This study	1.30E-05	0.01299
+PF18-154a	PF18-154		This study	1.37E-05	0.01372
+PF18-155a	PF18-155		This study	1.44E-05	0.01445
+PF18-156a	PF18-156		This study	1.37E-05	0.01374
+PF18-157a	PF18-157		This study	1.34E-05	0.01337
+PF18-158a	PF18-158		This study	1.29E-05	0.01288
+PF18-159a	PF18-159		This study	1.33E-05	0.0133
+PF18-160a	PF18-160		This study	1.01E-05	0.01005
+PF18-161a	PF18-161		This study	1.26E-05	0.01261
+PF18-162a	PF18-162		This study	9.90E-06	0.00991
+PF18-163a	PF18-163		This study	8.00E-06	0.00804

@@ -1,3 +1,3 @@
 tab	locations
-analysts	citations	lat_n	lat_s	location	lon_e	lon_w
-	This study	46.5	46.5	Northern Wisconsin	-90.5	-90.5
+analysts	citations	geologic_classes	lat_n	lat_s	lithologies	location	location_type	lon_e	lon_w
+	This study	Sedimentary	46.4618	46.4608	Siltstone	Northern Wisconsin	Stratigraphic Section	269.4708	269.4698
